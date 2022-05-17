@@ -3102,7 +3102,7 @@ input[type=search] {
 input[type=checkbox],
 input[type=radio] {
     margin: 4px 0 0;
-    margin-top: 1px\9;
+    margin-top: 1px;
     line-height: normal
 }
 
@@ -4288,7 +4288,7 @@ tbody.collapse.in {
     border-top: 4px dashed;
     border-top: 4px solid;
     border-right: 4px solid transparent;
-    border-left: 4px solid transparent
+    border-left:  transparent
 }
 
 .dropdown,
@@ -4422,7 +4422,7 @@ tbody.collapse.in {
     content: "";
     border-top: 0;
     border-bottom: 4px dashed;
-    border-bottom: 4px solid\9
+    
 }
 
 .dropup .dropdown-menu,
